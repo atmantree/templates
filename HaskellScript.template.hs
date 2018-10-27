@@ -1,5 +1,5 @@
 #!/usr/bin/env stack
--- stack runghc --resolver lts-11.16 --install-ghc
+-- stack runghc --resolver lts-12.2 --install-ghc
 
 import System.Environment (getArgs)
 
